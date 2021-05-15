@@ -1,0 +1,10 @@
+Taxpayer Name: Rifat Ali	|	Tax Amount: 0.0 tk
+Taxpayer Name: Ahsan Seikh	|	Tax Amount: 18000.0 tk
+Taxpayer Name: Rahima Seikh	|	Tax Amount: 27000.0 tk
+Taxpayer Name: Masnun Seikh	|	Tax Amount: 81000.0 tk
+Taxpayer Name: Nazifa Tasnim	|	Tax Amount: 90000.0 tk
+Taxpayer Name: Farhana Ali	|	Tax Amount: 0.0 tk
+Taxpayer Name: Rafiq Sikder	|	Tax Amount: 18000.0 tk
+Taxpayer Name: Rafi Ahmed	|	Tax Amount: 49500.0 tk
+Taxpayer Name: Nusrat Jahan	|	Tax Amount: 58500.0 tk
+Taxpayer Name: Samia Tasnim	|	Tax Amount: 90000.0 tk
